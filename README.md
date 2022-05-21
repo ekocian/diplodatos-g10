@@ -12,5 +12,4 @@ Entregables diplomatura en ciencia de Datos 2022
     - [Exploracion de patrones y asociaciones al analisis de salarios/lenguajes a traves de herramientas visuales](/ayvd/Grupo_10_AyVD_Entregable_Parte_1.ipynb)
 - Entregable 2
     - [Estimaciones y Test de hipotesis](/ayvd/Grupo_10_AyVD_Entregable_Parte_2.ipynb)
-    - [Presentacion caso de estudio](/ayvd/Grupo_10_AyVD_Entregable_Parte_2.ipynb)
-    - [Presentacion de analisis realizados](/ayvd/Entregable_AyVD.pdf)
+    - [Presentacion caso de estudio](/ayvd/Entregable_AyVD.pdf)
