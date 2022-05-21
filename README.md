@@ -10,6 +10,7 @@ Entregables diplomatura en ciencia de Datos 2022
 - Entregable 1
     - [Analisis de lenguajes de programacion asociados a mejores salarios](/ayvd/Grupo_10_AyVD_Entregable_Parte_1.ipynb)
     - [Exploracion de patrones y asociaciones al analisis de salarios/lenguajes a traves de herramientas visuales](/ayvd/Grupo_10_AyVD_Entregable_Parte_1.ipynb)
+    - [Presentacion de analisis realizados](/ayvd/Entregable_AyVD.pdf)
 - Entregable 2
     - [Estimaciones y Test de hipotesis](/ayvd/Grupo_10_AyVD_Entregable_Parte_2.ipynb)
     - [Presentacion caso de estudio](/ayvd/Grupo_10_AyVD_Entregable_Parte_2.ipynb)
