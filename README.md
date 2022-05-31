@@ -16,7 +16,7 @@ Entregables diplomatura en ciencia de Datos 2022
 
 ### Exploracion y curacion de datos
 - Entregable 1
-    - [Titulo entregable 1](/eycd/Grupo_10_EyCD_Entregable_Parte_1.ipynb)
+    - [Exploracion de datos con SQL](/eycd/Grupo_10_EyCD_Entregable_Parte_1.ipynb)
 - Entregable 2
     - [Titulo entregable 2](/eycd/Grupo_10_EyCD_Entregable_Parte_2.ipynb)
 
