@@ -13,3 +13,8 @@ Entregables diplomatura en ciencia de Datos 2022
 - Entregable 2
     - [Estimaciones y Test de hipotesis](/ayvd/Grupo_10_AyVD_Entregable_Parte_2.ipynb)
     - [Presentacion caso de estudio](/ayvd/Entregable_AyVD.pdf)
+
+### Exploracion y curacion de datos
+- Entregable 1
+    - [---](/eycd/Grupo_10_EyCD_Entregable_Parte_1.ipynb)
+- Entregable 2
