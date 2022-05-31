@@ -22,6 +22,6 @@ Entregables diplomatura en ciencia de Datos 2022
 
 ### Introduccion al Machine Learning
 - Entregable 1
-    - [Titulo entregable 1](/introml/Grupo_10_IntroML_Entregable_Parte_1.ipynb)
+    - [Regresion en Boston](/introml/Grupo_10_IntroML_Entregable_Parte_1.ipynb)
 - Entregable 2
     - [Titulo entregable 2](/introml/Grupo_10_IntroML_Entregable_Parte_2.ipynb)
