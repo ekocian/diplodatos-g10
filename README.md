@@ -5,6 +5,7 @@ Entregables diplomatura en ciencia de Datos 2022
 - Kocian, Esteban (egkolo@gmail.com)
 - Marquez, Micael (micaelmarquezz@gmail.com)
 - Perez, Lucas Javier (lucasenrio@gmail.com)
+- Pfluger, Santiago (santiago.pfluger@unc.edu.ar)
 
 ### Analisis y Visualizacion de Datos
 - Entregable 1
